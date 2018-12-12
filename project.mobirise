@@ -39,7 +39,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 48,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
